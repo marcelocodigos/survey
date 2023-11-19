@@ -62,5 +62,22 @@
     @media screen and (max-width: 600px) {
       .container-questions {
         max-width: 100%; /* Ajusta a largura máxima para ocupar 100% da largura da tela */
+         background-color: #dddddd;
+        width: 80%;
+        
+        padding: 10px;
+      }
+      .container-questions button{
+        
+      
+      }
+      .container{
+        width: 100%;
+        padding: 0;
+        margin: 0;
+        background-color: white;
+        justify-content: center;
+        height: 100vh;
+      
       }
     }
